@@ -1,8 +1,8 @@
 {
-    "name": "dannyvankooten/php-router",
+    "name": "jarednova/php-router",
     "description": "Simple PHP Router, supports REST and reverse routing.",
     "keywords": ["router", "routing", "php", "rest"],
-    "homepage": "https://github.com/dannyvankooten/PHP-Router",
+    "homepage": "https://github.com/jarednova/PHP-Router",
     "license": "MIT",
     "authors": [
         {
